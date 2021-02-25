@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JC.Samples.MsiExecConsoleDemo", "JC.Samples.MsiExecConsoleDemo\JC.Samples.MsiExecConsoleDemo.csproj", "{2E2E722D-0CC9-40B4-9D44-6E84796DC3FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E2E722D-0CC9-40B4-9D44-6E84796DC3FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E2E722D-0CC9-40B4-9D44-6E84796DC3FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E2E722D-0CC9-40B4-9D44-6E84796DC3FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E2E722D-0CC9-40B4-9D44-6E84796DC3FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FC16135-3BC1-41C3-8633-F7248176F40A}
+	EndGlobalSection
+EndGlobal
