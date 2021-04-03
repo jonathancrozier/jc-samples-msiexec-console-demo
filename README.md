@@ -1,4 +1,4 @@
-# JC.Samples.MsiExecConsoleDemo
+# Samples - MsiExec Console Demo
 An example of how to install and uninstall programs using msiexec via C# and a custom ```MsiPackage``` class.
 
 ```csharp
